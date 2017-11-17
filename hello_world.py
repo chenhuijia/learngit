@@ -1,4 +1,4 @@
-#comment
+#-*- coding: utf-8 -*-
 message = "Hello,python world!"
 print(message)
 
